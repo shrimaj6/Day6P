@@ -1,0 +1,14 @@
+D:\Day6P\Day6\Day6\obj\Debug\netcoreapp3.1\Day6.csproj.AssemblyReference.cache
+D:\Day6P\Day6\Day6\obj\Debug\netcoreapp3.1\Day6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day6P\Day6\Day6\obj\Debug\netcoreapp3.1\Day6.AssemblyInfoInputs.cache
+D:\Day6P\Day6\Day6\obj\Debug\netcoreapp3.1\Day6.AssemblyInfo.cs
+D:\Day6P\Day6\Day6\obj\Debug\netcoreapp3.1\Day6.csproj.CoreCompileInputs.cache
+D:\Day6P\Day6\Day6\bin\Debug\netcoreapp3.1\Day6.exe
+D:\Day6P\Day6\Day6\bin\Debug\netcoreapp3.1\Day6.deps.json
+D:\Day6P\Day6\Day6\bin\Debug\netcoreapp3.1\Day6.runtimeconfig.json
+D:\Day6P\Day6\Day6\bin\Debug\netcoreapp3.1\Day6.runtimeconfig.dev.json
+D:\Day6P\Day6\Day6\bin\Debug\netcoreapp3.1\Day6.dll
+D:\Day6P\Day6\Day6\bin\Debug\netcoreapp3.1\Day6.pdb
+D:\Day6P\Day6\Day6\obj\Debug\netcoreapp3.1\Day6.dll
+D:\Day6P\Day6\Day6\obj\Debug\netcoreapp3.1\Day6.pdb
+D:\Day6P\Day6\Day6\obj\Debug\netcoreapp3.1\Day6.genruntimeconfig.cache
